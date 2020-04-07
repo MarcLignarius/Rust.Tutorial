@@ -1,5 +1,5 @@
 [package]
-name = "Rust_Tutorial"
+name = "rust_tutorial"
 version = "0.1.0"
 authors = ["Marc Davies <marcdaviesriot@gmail.com>"]
 edition = "2018"
