@@ -5,8 +5,13 @@
 pub fn run() {
   let name = "Marc";
   let mut age = 36;
-
-  age = 37;
-
+  // Read age = 36
   println!("My name is {} and I am {}", name, age);
+  // Read age = 37
+  age = 37;
+  println!("My name is {} and I am {}", name, age);
+
+  // Define constant
+  const ID: i32 = 001;
+  println!("ID: {}", ID);
 }
